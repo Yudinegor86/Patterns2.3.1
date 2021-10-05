@@ -63,4 +63,4 @@ public class CardDeliveryTest {
                 1500).shouldHave(exactText("Успешно! Встреча успешно запланирована на " + anotherDate));
     }
 
-} 
+}
